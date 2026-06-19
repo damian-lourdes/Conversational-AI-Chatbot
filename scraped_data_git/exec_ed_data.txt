@@ -3,34 +3,25 @@ URL: https://execed.utdallas.edu/
 Wideblocks:
 Sharpen your Business Acumen:
 
-Degree Programs:
+Executive Education Rankings:
+
+Academic Offerings:
 Paragraph: Earn your Executive MBA, Executive Master’s or Doctorate degree. Online, in-person and hybrid options are available. No GRE or GMAT required.
+
+Certificates:
+Paragraph: Enhance your expertise with our academic certificates,
+offering focused knowledge in key areas. These credit bearing, graded courses can be applied toward your
+degree program, helping you earn academic credits as
+you advance your education.
+
+Customized Online MBA:
+Paragraph: Customize your MBA with online options, flexible scheduling, and opportunities to pursue multiple concentrations and certifications. Courses are taught by industry experts and delivered through interactive modules and optional live weeknight webinars.
 
 Executive MBA Options:
 Paragraph: Enhance your leadership skills and advance your career with our flexible MBA programs, available in both in person and online formats. Achieve the perfect balance between work, life and MBA, all while preparing yourself to navigate the demands of tomorrow’s leadership.
 
 Executive MS Options:
 Paragraph: Set yourself up for success with our MS specializations designed for full-time professionals. Enhance your essential competencies, business acumen and soft skills to navigate a dynamic and constantly changing environment through our flexible coursework.
-
-Customized Online MBA:
-Paragraph: Customize your MBA with online options, flexible scheduling, and opportunities to pursue multiple concentrations and certifications.
-
-Certificate Programs:
-Paragraph: Gain a professional advantage through credit and noncredit certifications to excel in your field. These credentials enhance your expertise
-and showcase your dedication to continuous learning and adaptability in a rapidly changing industry landscape.
-
-Academic Certificates:
-Paragraph: Enhance your expertise with our academic certificates,
-offering focused knowledge in key areas. These credit bearing, graded courses can be applied toward your
-degree program, helping you earn academic credits as
-you advance your education.
-
-Professional Certificate:
-Paragraph: Stay ahead in your field with our noncredit courses
-designed for full-time professionals. Gain knowledge on
-cutting-edge topics that are in high demand in today’s
-work environment. No university degree is required for
-admission.
 
 Corporate Programs:
 Paragraph: Executive Education at UT Dallas is proud to offer corporate partnerships that provide substantial savings on graduate degrees and
@@ -47,28 +38,26 @@ Student Testimonials:
 Paragraph: Executive Education students, alumni, employers and partners talk about their invaluable academic experiences at the UT Dallas Jindal School of Management, providing advice, perspective and vision.
 Link: See all Executive Education Testimonials (URL: /execed/voices/testimonials)
 
-Holly Martin, GLEMBA ’19:
-Paragraph: Customer Experience Manager, 
- J.B. Hunt
+Esteban Santos, EMBA 2021:
 
-Executive Education Articles:
+Articles:
 Link: See all Executive Education Articles (URL: /execed/voices/executive-education-articles)
-
-The Importance of a Relevant Curriculum:
-Paragraph: Curriculum is Key for Students
-Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
 
 Difference Between EMBA and PMBA:
 Paragraph: What is the difference between EMBA and PMBA?
 Paragraph: UT Dallas offers five paths to earning an MBA. Each MBA requires 53 credit hours to complete, and all are accredited by AACSB, which is the gold standard for business schools. Tuition, curriculum and admissions are different for each of these MBA options.
 
+How to Write an Admissions Essay for an Executive MBA Program:
+Paragraph: The power of your personal story
+Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
+
 What Makes a Good EMBA Candidate?:
 Paragraph: An Excellent Career Investment
 Paragraph: When I am asked what makes a good executive MBA candidate, several thoughts come to mind.  I’m looking for mature working professionals that are ready to invest in accelerating their career.
 
-How to Write an Admissions Essay for an Executive MBA Program:
-Paragraph: The power of your personal story
-Paragraph: Each individual has a story to tell, yet when it comes to the admissions essay, many essays fall short because the applicant fails to effectively convey their story. The beginning of the essay should capture the reader’s attention.
+The Importance of a Relevant Curriculum:
+Paragraph: Curriculum is Key for Students
+Paragraph: Creating and maintaining a relevant curriculum is key for students to achieve the maximum return on investment (ROI) in an executive MBA program. Emerging technologies are becoming an integral part of our business environment.
 
 Executive Education Request for Information:
 
@@ -135,7 +124,7 @@ Paragraph: This fully online program connects product development with supply ch
 EMBA with emphasis in Project Management:
 Paragraph: Achieve more with a PMI-accredited program that’s fully online and accessible from anywhere. Enhance your degree with electives and gain additional academic certificates built into your journey.
 
-Master of Science:
+MS:
 
 MS in Healthcare Leadership and Management for Physicians:
 Paragraph: Designed for senior physicians in or aspiring to leadership roles, the program blends academic rigor with hands-on learning. Participants thrive in a supportive culture rooted in shared values and professional excellence, with residential four-day classes held every other month.
@@ -143,7 +132,7 @@ Paragraph: Designed for senior physicians in or aspiring to leadership roles, th
 MS in Leadership and Organizational Development:
 Paragraph: Advance your education with concentration credits that count toward both your degree and certificate. Study from anywhere with our fully online format, take part in expert forums at no cost and enjoy the flexibility to progress at a pace that works for your busy lifestyle.
 
-Executive Master of Science:
+Executive MS:
 
 Executive MS in Management Science:
 Paragraph: Customize your program with concentrations or certifications, gain data-driven strategies, and expand your network alongside executive professionals. Engage directly with subject matter experts through our dynamic Speaker Series.
@@ -177,8 +166,14 @@ Paragraph: With a focus on digital marketing, customer insights and AI, this pro
 Healthcare Informatics Leadership:
 Paragraph: Network with fellow physicians while learning from industry experts and physician executives in a hybrid format that combines two residential classes with one online course. This program is available exclusively to current APL students or those eligible for admission.
 
+Mediation and Dispute Resolution:
+Paragraph: Provides a foundation in conflict management. This 40-hour program covers negotiation, cultural and emotional dynamics, and ethical process design, preparing participants for TMCA credentialing.
+
 Organizational Consulting:
 Paragraph: Earn credits that can be applied toward an MS degree. Through our flexible 100% online format and small class sizes that promote interactive learning and complimentary access to expert forums, you will gain valuable knowledge while expanding your professional network.
+
+Management:
+Paragraph: An updated certificate will launch in Fall 2026. Click here to sign up for future notifications.
 
 Product Lifecycle and Supply Chain Management:
 Paragraph: This program integrates product lifecycle with supply chain management while highlighting the impact of AI. Through industry expert–led web conferences and case studies with real-world applications, you’ll gain practical insights into how emerging technologies are reshaping operations.
@@ -373,6 +368,62 @@ Explore The Executive Education Event Calendar:
 
 Upcoming Events:
 Paragraph: See Executive Education Events
+
+==================================================
+
+URL: https://execed.utdallas.edu/contact/
+
+Wideblocks:
+Corporate Programs:
+
+Rhonda Bush:
+Paragraph: Assistant Dean, Executive Education
+Paragraph: rhonda.bush@utdallas.edu |
+      (972) 883-2726 |
+      JSOM 1.909
+
+Customized Online MBA & Programs:
+
+Natalie Gonzalez:
+Paragraph: Director, Customized Online Program
+Paragraph: Natalie.Gonzalez3@utdallas.edu |
+      (972) 883-4364 |
+      JSOM 1.911
+
+Executive MBA Programs:
+
+Rebecca Watts:
+Paragraph: Director, Executive MBA
+Paragraph: Rebecca.Watts@utdallas.edu |
+      (972) 883-4433 |
+      JSOM 1.905
+
+Financial Aid:
+
+Zachary Hughes:
+Paragraph: Financial Services Manager
+Paragraph: Zack.Hughes@utdallas.edu |
+      (972) 883-6003 |
+      JSOM 1.903
+
+Leadership and Organizational Development Programs:
+
+Physician Leadership Programs:
+
+Don Taylor, MHA:
+Paragraph: APL Program Director
+Paragraph: don.taylor@utdallas.edu |
+      (972) 883-2562 |
+
+Megan Gray Hering:
+Paragraph: APL Program Manager
+Paragraph: megan.hering@utdallas.edu |
+      (972) 883-2980 |
+
+Kathleen Milam:
+Paragraph: APL Program Manager
+Paragraph: kathleen.milam@utdallas.edu |
+      (972) 883-5066 |
 
 ==================================================
 
