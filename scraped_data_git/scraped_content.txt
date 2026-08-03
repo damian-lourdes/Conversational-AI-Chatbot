@@ -1781,9 +1781,13 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: EMBA Open House
-	- Text: EMBA Open House
-	  Href: https://calendar.utdallas.edu/event/emba-open-house-aug1
+Context: 2026 Party for Summer Jindal Graduates
+	- Text: 2026 Party for Summer Jindal Graduates
+	  Href: https://calendar.utdallas.edu/event/2026-party-for-summer-jindal-graduates
+
+Context: RISE Retail Conference
+	- Text: RISE Retail Conference
+	  Href: https://calendar.utdallas.edu/event/rise-retail-conference
 
 Context: Apply Now
 	- Text: Apply Now
