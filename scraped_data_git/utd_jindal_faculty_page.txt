@@ -83,13 +83,16 @@ mingliu.chen@utdallas.edu|(972) 883-4758|JSOM 3.702
 Assistant Professor, Organizations, Strategy and International Management
 qingqing.chen@utdallas.edu|(972) 883-2759|JSOM 4.225
 
+Professor, Operations Management
+xin.chen@utdallas.edu||JSOM 3.415
+
 Assistant Professor, Information Systems
 zenan.chen@utdallas.edu||JSOM 3.811
 
 Assistant Professor, Finance and Managerial Economics
 paul.cheung@utdallas.edu|(972) 883-5861|JSOM 3.620
 
-Assistant Professor, Marketing
+Associate Professor, Marketing
 khai.chiong@utdallas.edu|(972) 883-5027|JSOM 13.324
 
 Assistant Professor, Organizations, Strategy and International Management
@@ -224,7 +227,7 @@ vaidy@utdallas.edu|(972) 883-6363|JSOM 3.409
 Assistant Professor, Accounting
 junyoung.jeong@utdallas.edu||JSOM 4.420
 
-Assistant Professor, Marketing
+Associate Professor, Marketing
 joonhwi.joo@utdallas.edu|(972) 883-4741|JSOM 13.326
 
 Assistant Professor, Information Systems
@@ -542,7 +545,7 @@ sethi@utdallas.edu|(972) 883-6245|JSOM 3.401
 Director, MS Systems Engineering and Management, Professor of Practice, Organizations, Strategy and International Management
 rajiv.shah@utdallas.edu|(972) 883-5904|JSOM 4.204
 
-Assistant Professor, Marketing
+Associate Professor, Marketing
 shervin.tehrani@utdallas.edu|(972) 883-5921|JSOM 13.219
 
 Associate Professor of Instruction, Information Systems
@@ -925,6 +928,12 @@ qingqing.chen@utdallas.edu
 (972) 883-2759
 JSOM 4.225
 
+Xin  Chen
+Professor, Operations Management
+xin.chen@utdallas.edu
+
+JSOM 3.415
+
 Zenan  Chen
 Assistant Professor, Information Systems
 zenan.chen@utdallas.edu
@@ -938,7 +947,7 @@ paul.cheung@utdallas.edu
 JSOM 3.620
 
 Khai  Chiong
-Assistant Professor, Marketing
+Associate Professor, Marketing
 khai.chiong@utdallas.edu
 (972) 883-5027
 JSOM 13.324
@@ -1208,7 +1217,7 @@ junyoung.jeong@utdallas.edu
 JSOM 4.420
 
 Joonhwi  Joo
-Assistant Professor, Marketing
+Associate Professor, Marketing
 joonhwi.joo@utdallas.edu
 (972) 883-4741
 JSOM 13.326
@@ -1844,7 +1853,7 @@ rajiv.shah@utdallas.edu
 JSOM 4.204
 
 Shervin  Shahrokhi Tehrani
-Assistant Professor, Marketing
+Associate Professor, Marketing
 shervin.tehrani@utdallas.edu
 (972) 883-5921
 JSOM 13.219
