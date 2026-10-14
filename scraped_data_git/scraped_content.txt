@@ -1781,10 +1781,6 @@ Context: Upcoming Events
 	- Text: Upcoming Events
 	  Href: https://calendar.utdallas.edu/department/jindal/calendar/day?card_size=small&days=366&experience=
 
-Context: IE Welcome Bash
-	- Text: IE Welcome Bash
-	  Href: https://calendar.utdallas.edu/event/IE-Welcome-Bash
-
 Context: Scholarship Breakfast
 	- Text: Scholarship Breakfast
 	  Href: https://calendar.utdallas.edu/event/scholarship-breakfast
