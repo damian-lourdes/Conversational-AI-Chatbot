@@ -112,7 +112,7 @@ List:
 
 Innovation and Entrepreneurship:
 List:
-  - Graduate Certificate (Link: https://osim.utdallas.edu/ms-innovation-entrepreneurship/certificates/)
+  - Graduate Certificate (Link: https://osim.utdallas.edu/ms-innovation-entrepreneurship/certificates-double-degrees/)
   - Undergraduate Certificate (Link: https://catalog.utdallas.edu/2025/undergraduate/programs/jsom/certificates/)
 
 Operations and Supply Chain Management:
@@ -279,7 +279,7 @@ List:
 
 Innovation and Entrepreneurship:
 List:
-  - Graduate Certificate (Link: https://osim.utdallas.edu/ms-innovation-entrepreneurship/certificates/)
+  - Graduate Certificate (Link: https://osim.utdallas.edu/ms-innovation-entrepreneurship/certificates-double-degrees/)
   - Undergraduate Certificate (Link: https://catalog.utdallas.edu/2025/undergraduate/programs/jsom/certificates/)
 
 Operations and Supply Chain Management:

@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: UT Dallas Invites Public to Dec. 2 Dedication of New Davidson Building
+Title Link: https://jindal.utdallas.edu/news/ut-dallas-invites-public-to-dec-2-dedication-of-new-davidson-building/
+Excerpt: The University of Texas at Dallas will celebrate the dedication of the new Charles and Nancy Davidson Building on Dec. 2 at 1:30 p.m. at the Naveen Jindal School of Management. This event is free and open to the public. Community members, alumni, students, faculty and staff are invited to attend. The dedication marks a […]
+Meta Details: November 16th, 2026 |Events,Featured
+Image URL: https://jindal.utdallas.edu/files/2026/11/davidson_building_630x630.jpg
+
+==================================================
+
 Title: UT Dallas Entrepreneurship Programs Rank Among World’s Top 25
 Title Link: https://jindal.utdallas.edu/news/ut-dallas-entrepreneurship-programs-rank-among-worlds-top-25/
 Excerpt: The Naveen Jindal School of Management at The University of Texas at Dallas has been ranked among the world’s top 25 graduate and undergraduate entrepreneurship programs in The Princeton Review’s 2027 rankings. The Jindal School ranked No. 14 worldwide, No. 13 overall in the U.S. and No. 8 among U.S. public universities for graduate entrepreneurship. […]
@@ -12,7 +20,7 @@ Image URL: https://jindal.utdallas.edu/files/2026/11/2027-Rankings-Entrepreneurs
 Title: AI Week Explores Human Leadership in a Changing Workplace
 Title Link: https://jindal.utdallas.edu/news/ai-week-explores-human-leadership-in-a-changing-workplace/
 Excerpt: As artificial intelligence takes on more of the work once assigned to new business graduates, Dr. Hasan Pirkul sees a question universities must confront: What should they be teaching the people who will manage it? Hasan Pirkul “Are we teaching our students what the AI will be doing?” asked Pirkul, dean and Caruth Chair of […]
-Meta Details: November 11th, 2026 |Events,Featured
+Meta Details: November 11th, 2026 |Events
 Image URL: https://jindal.utdallas.edu/files/2026/11/mark_austin_ai_day_fall_2026_630x630b.png
 
 ==================================================
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/north-texas-african-diaspora-busine
 Excerpt: Forty-three business leaders, entrepreneurs and changemakers from the African diaspora attended the inaugural Africa Table Breakfast on Aug. 8 at the Naveen Jindal School of Management. The event introduced the school’s Africa Initiative to members of North Texas’ African business community and invited their ideas for developing its programs and partnerships. Guests gather for the […]
 Meta Details: August 25th, 2026 |Events
 Image URL: https://jindal.utdallas.edu/files/2026/08/africa_table_2026_featured_image_630x630.png
-
-==================================================
-
-Title: Livestreamed Event To Highlight UT Dallas’ Role in North Texas Economic Growth
-Title Link: https://jindal.utdallas.edu/news/livestreamed-event-to-highlight-ut-dallas-role-in-north-texas-economic-growth/
-Excerpt: A Sept. 15 breakfast presented by the Building Owners and Managers Association of Greater Dallas and hosted by the Herbert D. Weitzman Institute for Real Estate will examine how The University of Texas at Dallas contributes to workforce development, business innovation and regional economic competitiveness. Although attendance at the Davidson-Gundy Alumni Center is by invitation […]
-Meta Details: August 21st, 2026 |Corporate,Events
-Image URL: https://jindal.utdallas.edu/files/2026/08/BOMA-Breakfast-Graphic-3.jpg
 
 ==================================================
 
