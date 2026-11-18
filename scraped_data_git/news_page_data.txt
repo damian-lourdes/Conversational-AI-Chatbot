@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: Jindal School Finance Lab Students Benchmark DFW as a Financial Hub for Dallas Regional Chamber
+Title Link: https://jindal.utdallas.edu/news/jindal-school-finance-lab-students-benchmark-dfw-as-a-financial-hub-for-dallas-regional-chamber/
+Excerpt: Jindal School Finance Lab students and Dallas Regional Chamber representatives gather after the students presented their research on DFW’s financial services industry. Finance Lab director Liping Ma (center, in purple) guided the students throughout the project. Dallas-Fort Worth, often called “Y’all Street,” is drawing growing attention as a financial services hub. A team of four […]
+Meta Details: November 18th, 2026 |Academics,Faculty,Students
+Image URL: https://jindal.utdallas.edu/files/2026/11/finance_lab_drc_collaboration_group_photo_fall_2026_630x630.jpg
+
+==================================================
+
 Title: UT Dallas Invites Public to Dec. 2 Dedication of New Davidson Building
 Title Link: https://jindal.utdallas.edu/news/ut-dallas-invites-public-to-dec-2-dedication-of-new-davidson-building/
 Excerpt: The University of Texas at Dallas will celebrate the dedication of the new Charles and Nancy Davidson Building on Dec. 2 at 1:30 p.m. at the Naveen Jindal School of Management. This event is free and open to the public. Community members, alumni, students, faculty and staff are invited to attend. The dedication marks a […]
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/new-jindal-school-study-shows-when-
 Excerpt: A new study from the Naveen Jindal School of Management suggests that artificial intelligence can be the final decision maker in a business process when its effective quality for a particular task meets or exceeds that of the human alternative. Hongda Zhong The paper based on that study —  “Optimal Integration: Human, Machine, and Generative […]
 Meta Details: August 28th, 2026 |Faculty,Research
 Image URL: https://jindal.utdallas.edu/files/2026/08/hongda_zhong_headshot_2-630x630-1.jpg
-
-==================================================
-
-Title: North Texas African Diaspora Business Leaders Help Shape Jindal School’s Africa Initiative
-Title Link: https://jindal.utdallas.edu/news/north-texas-african-diaspora-business-leaders-help-shape-jindal-schools-africa-initiative/
-Excerpt: Forty-three business leaders, entrepreneurs and changemakers from the African diaspora attended the inaugural Africa Table Breakfast on Aug. 8 at the Naveen Jindal School of Management. The event introduced the school’s Africa Initiative to members of North Texas’ African business community and invited their ideas for developing its programs and partnerships. Guests gather for the […]
-Meta Details: August 25th, 2026 |Events
-Image URL: https://jindal.utdallas.edu/files/2026/08/africa_table_2026_featured_image_630x630.png
 
 ==================================================
 
