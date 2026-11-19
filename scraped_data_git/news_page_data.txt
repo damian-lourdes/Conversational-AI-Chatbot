@@ -1,6 +1,14 @@
 URL: https://jindal.utdallas.edu/news/
 
 News Posts:
+Title: UT Dallas Alumnus Demonstrates a Lifetime of Learning
+Title Link: https://jindal.utdallas.edu/news/ut-dallas-alumnus-demonstrates-a-lifetime-of-learning/
+Excerpt: At 76, James Miller Jr., MS’99, is returning to graduate school. The Jindal School alumnus reflects on the UT Dallas professors who shaped his career and the value of lifelong learning.
+Meta Details: November 19th, 2026 |Alumni
+Image URL: https://jindal.utdallas.edu/files/2026/11/James-Miller-Jr-headshot_630x630.png
+
+==================================================
+
 Title: Jindal School Finance Lab Students Benchmark DFW as a Financial Hub for Dallas Regional Chamber
 Title Link: https://jindal.utdallas.edu/news/jindal-school-finance-lab-students-benchmark-dfw-as-a-financial-hub-for-dallas-regional-chamber/
 Excerpt: Jindal School Finance Lab students and Dallas Regional Chamber representatives gather after the students presented their research on DFW’s financial services industry. Finance Lab director Liping Ma (center, in purple) guided the students throughout the project. Dallas-Fort Worth, often called “Y’all Street,” is drawing growing attention as a financial services hub. A team of four […]
@@ -150,14 +158,6 @@ Title Link: https://jindal.utdallas.edu/news/jindal-school-cybersecurity-profess
 Excerpt: As organizations face more frequent and sophisticated digital threats, they increasingly need professionals who can manage cybersecurity risks. Students preparing for those roles through the Bachelor of Science in Cybersecurity and Risk Management program at the Naveen Jindal School of Management can learn from a faculty member recently recognized for her expertise and leadership in […]
 Meta Details: September 1st, 2026 |Academics,Faculty
 Image URL: https://jindal.utdallas.edu/files/2026/08/renita_murimi_headshot_630x630.png
-
-==================================================
-
-Title: New Jindal School Study Shows When AI Should Get the Final Say
-Title Link: https://jindal.utdallas.edu/news/new-jindal-school-study-shows-when-ai-should-get-the-final-say/
-Excerpt: A new study from the Naveen Jindal School of Management suggests that artificial intelligence can be the final decision maker in a business process when its effective quality for a particular task meets or exceeds that of the human alternative. Hongda Zhong The paper based on that study —  “Optimal Integration: Human, Machine, and Generative […]
-Meta Details: August 28th, 2026 |Faculty,Research
-Image URL: https://jindal.utdallas.edu/files/2026/08/hongda_zhong_headshot_2-630x630-1.jpg
 
 ==================================================
 

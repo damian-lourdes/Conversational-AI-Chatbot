@@ -1785,9 +1785,9 @@ Context: Fall 2026 End of Semester Celebrations
 	- Text: Fall 2026 End of Semester Celebrations
 	  Href: https://calendar.utdallas.edu/event/fall-2026-end-of-semester-celebrations
 
-Context: JSOM Mentor & Campus Partner Appreciation Dinner
-	- Text: JSOM Mentor & Campus Partner Appreciation Dinner
-	  Href: https://calendar.utdallas.edu/event/jsom-mentorcampus-partner-appreciation-dinner
+Context: PLF Fall Graduation Alumni Dinner
+	- Text: PLF Fall Graduation Alumni Dinner
+	  Href: https://calendar.utdallas.edu/event/plf-fall-graduationalumni-dinner
 
 Context: Apply Now
 	- Text: Apply Now
